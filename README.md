@@ -131,6 +131,8 @@ o	Borrow
 •	Confirm that Carry and Borrow never both go high for the same input pair, since they represent different (AND vs A'B) conditions.
 
 The waveform should agree with the truth table.
+<img width="936" height="609" alt="Screenshot 2026-11-01 131703" src="https://github.com/user-attachments/assets/b3267b55-edcb-4b33-94f6-44bb3f4a2457" />
+
 
 ### Expected Result
 
